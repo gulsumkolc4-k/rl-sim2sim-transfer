@@ -69,7 +69,3 @@ No-DR koşumu, ince ayar için eleştirmenleri `critics.h5` olarak kaydeder.
 - Python + matplotlib — çizim (`plot_learning_curves.py`)
 
 ---
-
-## Atıf
-
-> G. N. Kolçak ve B. Yılmaz, "Pekiştirmeli Öğrenme Tabanlı Quadrotor Kontrolünde Kontrollü Dinamik Kayması Altında Transfer Genellenebilirliğinin Analizi," *TOK 2026 — Otomatik Kontrol Ulusal Toplantısı*, 2026.
