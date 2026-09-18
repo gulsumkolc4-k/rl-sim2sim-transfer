@@ -1,0 +1,4 @@
+condition,success_rate_pct,rmse_m,avg_ep_length,n_episodes
+zero-shot,98.0,0.231,491.4,200
+from-scratch,96.5,0.301,485.8,200
+fine-tune,96.5,0.266,484.6,200

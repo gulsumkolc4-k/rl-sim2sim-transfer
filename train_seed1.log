@@ -1,0 +1,222 @@
+==============================
+Seed 1 training started: Sun Jun 21 08:06:45 PM +03 2026
+==============================
+[NODR] seed=1 starting...
+Warning: OPENBLAS_NUM_THREADS is not set to 1. This may degrade performance.
+Large malloc: 818MB, total: 818 MB
+Seed: 1
+Extrack Experiment: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001"
+UI written to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/ui.esm.js"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000000000/trajectories.json.gz"
+Step: 0/500000 Mean return: 8.70394 Mean episode length: 57.34
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000000000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000000000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000025000/trajectories.json.gz"
+Step: 25000/500000 Mean return: 12.365 Mean episode length: 60.93
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000050000/trajectories.json.gz"
+Step: 50000/500000 Mean return: 144.588 Mean episode length: 343.29
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000050000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000050000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000075000/trajectories.json.gz"
+Step: 75000/500000 Mean return: 289.546 Mean episode length: 487.95
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000100000/trajectories.json.gz"
+Step: 100000/500000 Mean return: 348.935 Mean episode length: 491.68
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000100000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000100000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000125000/trajectories.json.gz"
+Step: 125000/500000 Mean return: 285.311 Mean episode length: 486.48
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000150000/trajectories.json.gz"
+Step: 150000/500000 Mean return: 317.091 Mean episode length: 500
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000150000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000150000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000175000/trajectories.json.gz"
+Step: 175000/500000 Mean return: 205.318 Mean episode length: 495.67
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000200000/trajectories.json.gz"
+Step: 200000/500000 Mean return: 194.112 Mean episode length: 495.45
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000200000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000200000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000225000/trajectories.json.gz"
+Step: 225000/500000 Mean return: 316.806 Mean episode length: 490.67
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000250000/trajectories.json.gz"
+Step: 250000/500000 Mean return: 307.094 Mean episode length: 487.01
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000250000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000250000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000275000/trajectories.json.gz"
+Step: 275000/500000 Mean return: 298.42 Mean episode length: 500
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000300000/trajectories.json.gz"
+Step: 300000/500000 Mean return: 346.617 Mean episode length: 495.46
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000300000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000300000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000325000/trajectories.json.gz"
+Step: 325000/500000 Mean return: 353.653 Mean episode length: 500
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000350000/trajectories.json.gz"
+Step: 350000/500000 Mean return: 352.929 Mean episode length: 500
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000350000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000350000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000375000/trajectories.json.gz"
+Step: 375000/500000 Mean return: 358.275 Mean episode length: 495.9
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000400000/trajectories.json.gz"
+Step: 400000/500000 Mean return: 353.11 Mean episode length: 500
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000400000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000400000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000425000/trajectories.json.gz"
+Step: 425000/500000 Mean return: 359.504 Mean episode length: 491.15
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000450000/trajectories.json.gz"
+Step: 450000/500000 Mean return: 352.635 Mean episode length: 500
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000450000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000450000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000475000/trajectories.json.gz"
+Step: 475000/500000 Mean return: 309.922 Mean episode length: 491.15
+Saving Trajectories to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/trajectories.json.gz"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/checkpoint.h"
+Critics kaydedildi: "experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/critics.h5"
+[NODR] seed=1 done.
+[NODR] Seed dir: /home/nur/build_nodr/src/rl/environments/l2f/dr_sac/experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001
+[NODR] Actor: /home/nur/build_nodr/src/rl/environments/l2f/dr_sac/experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/checkpoint.h5
+[NODR] Critics: /home/nur/build_nodr/src/rl/environments/l2f/dr_sac/experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/critics.h5
+[FROM-SCRATCH] seed=1 starting...
+Warning: OPENBLAS_NUM_THREADS is not set to 1. This may degrade performance.
+Large malloc: 818MB, total: 818 MB
+Seed: 1
+Extrack Experiment: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001"
+UI written to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/ui.esm.js"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000000000/trajectories.json.gz"
+Step: 0/500000 Mean return: 8.70386 Mean episode length: 53.16
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000000000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000000000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000025000/trajectories.json.gz"
+Step: 25000/500000 Mean return: 9.00915 Mean episode length: 54.91
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000050000/trajectories.json.gz"
+Step: 50000/500000 Mean return: 17.611 Mean episode length: 85.33
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000050000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000050000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000075000/trajectories.json.gz"
+Step: 75000/500000 Mean return: 53.3522 Mean episode length: 142.68
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000100000/trajectories.json.gz"
+Step: 100000/500000 Mean return: 238.927 Mean episode length: 328.57
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000100000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000100000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000125000/trajectories.json.gz"
+Step: 125000/500000 Mean return: 200.46 Mean episode length: 306.47
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000150000/trajectories.json.gz"
+Step: 150000/500000 Mean return: 252.805 Mean episode length: 353.89
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000150000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000150000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000175000/trajectories.json.gz"
+Step: 175000/500000 Mean return: 243.055 Mean episode length: 348.3
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000200000/trajectories.json.gz"
+Step: 200000/500000 Mean return: 260.91 Mean episode length: 414.02
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000200000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000200000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000225000/trajectories.json.gz"
+Step: 225000/500000 Mean return: 291.756 Mean episode length: 401.99
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000250000/trajectories.json.gz"
+Step: 250000/500000 Mean return: 277.776 Mean episode length: 432.63
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000250000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000250000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000275000/trajectories.json.gz"
+Step: 275000/500000 Mean return: 264.582 Mean episode length: 376.53
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000300000/trajectories.json.gz"
+Step: 300000/500000 Mean return: 306.458 Mean episode length: 422.31
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000300000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000300000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000325000/trajectories.json.gz"
+Step: 325000/500000 Mean return: 313.047 Mean episode length: 455.61
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000350000/trajectories.json.gz"
+Step: 350000/500000 Mean return: 309.49 Mean episode length: 460.29
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000350000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000350000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000375000/trajectories.json.gz"
+Step: 375000/500000 Mean return: 328.799 Mean episode length: 439.96
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000400000/trajectories.json.gz"
+Step: 400000/500000 Mean return: 300.912 Mean episode length: 444.7
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000400000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000400000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000425000/trajectories.json.gz"
+Step: 425000/500000 Mean return: 292.583 Mean episode length: 459.13
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000450000/trajectories.json.gz"
+Step: 450000/500000 Mean return: 271.116 Mean episode length: 452.66
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000450000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000450000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000475000/trajectories.json.gz"
+Step: 475000/500000 Mean return: 298.211 Mean episode length: 432.77
+Saving Trajectories to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/trajectories.json.gz"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-07-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/checkpoint.h"
+[FROM-SCRATCH] seed=1 done.
+[FINE-TUNE] seed=1 starting...
+Warning: OPENBLAS_NUM_THREADS is not set to 1. This may degrade performance.
+Large malloc: 818MB, total: 818 MB
+Seed: 1
+Extrack Experiment: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001"
+Actor yuklendi: /home/nur/build_nodr/src/rl/environments/l2f/dr_sac/experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/steps/000000000500000/checkpoint.h5
+Critics yuklendi (+ target sync): /home/nur/build_nodr/src/rl/environments/l2f/dr_sac/experiments/2026-06-21_20-06-45/b32d998_dr-sac_algorithm_environment_dr/sac_l2f_dr_false/0001/critics.h5
+UI written to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/ui.esm.js"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000000000/trajectories.json.gz"
+Step: 0/500000 Mean return: 202.638 Mean episode length: 377.46
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000000000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000000000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000025000/trajectories.json.gz"
+Step: 25000/500000 Mean return: 186.833 Mean episode length: 344.79
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000050000/trajectories.json.gz"
+Step: 50000/500000 Mean return: 11.0546 Mean episode length: 117.73
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000050000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000050000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000075000/trajectories.json.gz"
+Step: 75000/500000 Mean return: 146.639 Mean episode length: 245.72
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000100000/trajectories.json.gz"
+Step: 100000/500000 Mean return: 222.83 Mean episode length: 355.01
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000100000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000100000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000125000/trajectories.json.gz"
+Step: 125000/500000 Mean return: 236.624 Mean episode length: 399.5
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000150000/trajectories.json.gz"
+Step: 150000/500000 Mean return: 297.434 Mean episode length: 423.94
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000150000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000150000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000175000/trajectories.json.gz"
+Step: 175000/500000 Mean return: 261.567 Mean episode length: 423.43
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000200000/trajectories.json.gz"
+Step: 200000/500000 Mean return: 277.588 Mean episode length: 438.45
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000200000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000200000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000225000/trajectories.json.gz"
+Step: 225000/500000 Mean return: 234.296 Mean episode length: 399.49
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000250000/trajectories.json.gz"
+Step: 250000/500000 Mean return: 199.509 Mean episode length: 410.62
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000250000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000250000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000275000/trajectories.json.gz"
+Step: 275000/500000 Mean return: 172.739 Mean episode length: 325.88
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000300000/trajectories.json.gz"
+Step: 300000/500000 Mean return: 197.987 Mean episode length: 381.98
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000300000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000300000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000325000/trajectories.json.gz"
+Step: 325000/500000 Mean return: 245.868 Mean episode length: 431.5
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000350000/trajectories.json.gz"
+Step: 350000/500000 Mean return: 233.827 Mean episode length: 392.86
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000350000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000350000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000375000/trajectories.json.gz"
+Step: 375000/500000 Mean return: 252.758 Mean episode length: 395.11
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000400000/trajectories.json.gz"
+Step: 400000/500000 Mean return: 252.114 Mean episode length: 410.09
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000400000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000400000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000425000/trajectories.json.gz"
+Step: 425000/500000 Mean return: 243.445 Mean episode length: 439.68
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000450000/trajectories.json.gz"
+Step: 450000/500000 Mean return: 236.333 Mean episode length: 432.74
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000450000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000450000/checkpoint.h"
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000475000/trajectories.json.gz"
+Step: 475000/500000 Mean return: 204.934 Mean episode length: 345.52
+Saving Trajectories to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000500000/trajectories.json.gz"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000500000/checkpoint.h5"
+Checkpointing to: "experiments/2026-06-21_20-08-45/b32d998_finetune-sac_algorithm_environment_finetune/sac_l2f_finetune/0001/steps/000000000500000/checkpoint.h"
+[FINE-TUNE] seed=1 done.
+==============================
+Seed 1 ALL DONE: Sun Jun 21 08:09:46 PM +03 2026
+==============================

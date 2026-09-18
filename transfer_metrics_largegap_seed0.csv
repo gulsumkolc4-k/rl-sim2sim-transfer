@@ -1,0 +1,4 @@
+condition,success_rate_pct,rmse_m,avg_ep_length,jumpstart_return,time_to_threshold_steps
+zero-shot,80.0,0.406,415.6,253.3,0
+from-scratch,85.5,0.358,434.4,7.9,350000
+fine-tune,84.0,0.332,431.5,253.3,325000
